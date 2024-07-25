@@ -1,5 +1,5 @@
 # vanlife
-Vanlife is an app that serves as a rental site where users can find the perfect travel van for their next road trip adventure or list their own van for rent. It was built using React and React Router as part of the Scrimba Rect Router course.
+Vanlife is an app that serves as a rental site where users can find the perfect travel van for their next road trip adventure or list their own van for rent. It was built using React and React Router as part of the Scrimba React Router course.
 
 The project focuses on utilizing React Router features to implement nested routes and provide a smooth Single Page Application (SPA) user experience.
 
