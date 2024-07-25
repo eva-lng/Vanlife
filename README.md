@@ -12,7 +12,7 @@ The project focuses on utilizing React Router features to implement nested route
 + Mirage.js
 
 ### Demo
-**Link to project:**
+**Link to project:** https://vanlife-rental-app.netlify.app
 
 ## Features
 + Filtering - users can apply filters to the vans displayed on the page, filters persist when navigating back and forth on the page
