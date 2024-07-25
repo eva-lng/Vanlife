@@ -3,8 +3,6 @@ Vanlife is an app that serves as a rental site where users can find the perfect 
 
 The project focuses on utilizing React Router features to implement nested routes and provide a smooth Single Page Application (SPA) user experience.
 
-screenshot
-
 ### Tech Stack
 + React
 + React Router
